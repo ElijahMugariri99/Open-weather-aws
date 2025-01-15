@@ -51,7 +51,7 @@ This project consists of a Python script that extracts weather data from the Ope
 1. Run the `weather_dashboard.py` script to fetch weather data:
     ```
     python src/weather_dashboard.py
-```
+
      ![installation](/images/dashboard.png)
      
 ## Example
@@ -66,7 +66,7 @@ The weather dashboard displays the following information for each city:
 ![Bucket weather dashboard](/images/weather_bucket.png)   
 ![Harare_forecast](/images/Harare_forecast.png)       
 
-```
+
  ---
 
 ## Conclusion
