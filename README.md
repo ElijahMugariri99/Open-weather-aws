@@ -51,6 +51,7 @@ This project consists of a Python script that extracts weather data from the Ope
 1. Run the `weather_dashboard.py` script to fetch weather data:
     ```
     python src/weather_dashboard.py
+    ```
 
      ![installation](/images/dashboard.png)
      
